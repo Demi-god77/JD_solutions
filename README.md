@@ -59,7 +59,7 @@ All commercial trackers are delivered as:
 ### 🤝 Collaboration & Contact
 For business inquiries, customization requests, or partnerships:  
 
-📧 **juliendadson1@gmail.com**  
+📧 **jddatasolutions1@gmail.com**  
 📍 Accra, Ghana  
 🌐 *GitHub maintained by [Hubert Lewellyn Nkrumah]*  
 
